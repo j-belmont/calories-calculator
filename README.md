@@ -1,2 +1,2 @@
-# calories-calculator
+# Calories calculator
 Simple web app
